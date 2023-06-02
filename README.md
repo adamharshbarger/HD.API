@@ -1,7 +1,7 @@
 # HD.API
-This is an .NET 7 Minimal API that queries data from Home Depot's servers. Currently you can pull product data by Product ID. 
+This is a .NET 7 Minimal API that queries data from Home Depot's servers. Currently you can pull product data by Product ID. 
 
-This API is built an tested on a Kestrel Server. However, this is not production ready for any real-world use cases as I only have a single API endpoint.
+This API is built and tested on a Kestrel Server. However, this is not production ready for any real-world use cases as I only have a single API endpoint.
 
 # Usage
 Once the server is running the only endpoint available is /GetProductByID/{productID}
